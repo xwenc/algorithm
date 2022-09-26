@@ -1,0 +1,22 @@
+{
+  "name": "algorithm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xwenc/algorithm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xwenc/algorithm/issues"
+  },
+  "homepage": "https://github.com/xwenc/algorithm#readme",
+  "dependencies": {
+    "jest": "^29.0.3"
+  }
+}
